@@ -1,2 +1,2 @@
 # alura
-Alura-ASP-NET-autenticação-e-autorizacao-em-APIs-e-aplicacoes-web
+ASP.NET: autenticação e autorização em APIs e aplicações web
