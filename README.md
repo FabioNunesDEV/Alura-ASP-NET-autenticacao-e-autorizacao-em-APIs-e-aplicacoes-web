@@ -16,4 +16,4 @@ Conteúdo do curso
 
 Certificado de conclusão<br>
 
-<img align="center" alt="Dev-HTML" height="500em" src="Fábio%20Vicente%20Nunes%20-%20ASP.NET%20-%20Autenticacao%20e%20Autoriacao%20em%20APIS%20e%20Aplicacoes%20WEB%20.png">
+<img align="center" alt="Dev-HTML" height="500em" src="https://github.com/FabioNunesDEV/Certificados/blob/main/Fábio%20Vicente%20Nunes%20-%20Curso%20.NET_%20desenvolvendo%20uma%20aplicação%20web%20com%20ASP.NET%20Core%20Blazor%20-%20Alura.png">
